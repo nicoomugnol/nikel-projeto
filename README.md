@@ -1,4 +1,4 @@
-# nikel-projeto
+# nikel
 
 Este é um repositório para o meu projeto [Codaí] (https://plataforma.growdev.com.br/curso/codai).
 
